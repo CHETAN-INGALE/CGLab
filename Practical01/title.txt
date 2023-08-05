@@ -1,0 +1,4 @@
+To study introduction of computer graphics and use of C Graphics programs
+
+CSC305.1
+Implement various output and filled area primitive algorithms

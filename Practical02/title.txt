@@ -1,0 +1,4 @@
+Implement Digital Differentil Analyzer( DDA) Line Drawing algorithm
+
+CSC305.2
+Apply transformation, projection and clipping algorithms on graphical objects.
